@@ -4,7 +4,7 @@ title:  "Google Mas API Key 신청"
 author: OpenSquareD
 categories: [ DEV ]
 tags: [ GOOGLE, APIKEY ]
-image: assets/images/01/01.jpg
+image: assets/images/01/01.png
 rating: 5.0
 ---
 
@@ -39,4 +39,4 @@ Maps(지도 시각화), Places(위경도 변환) 옵션 클릭 후 계속 버튼
 발급받은 API는 복사 한 후, 위치 정보 시각화 또는 위경도 변환시 사용합니다.
 API키는 외부에 노출되지 않도록 관리가 필요합니다.
 
-![Key발급5](/assets/images/01/07.png)
+![Key발급5](/assets/images/01/08.png)
