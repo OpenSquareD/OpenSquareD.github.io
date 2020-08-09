@@ -15,7 +15,6 @@ authors:
   OSD:
     name: OpenSquareD
     display_name: OSD
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: opensquared.lab@gmail.com
     web: http://www.opensquared.org/
     description: ""
@@ -48,12 +47,11 @@ kramdown:
    syntax_highlighter_opts:
       disable : true
 
-
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 # Sass
 sass:
