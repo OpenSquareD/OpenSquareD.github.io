@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Mas API Key 신청"
-author: OpenSquareD
+author: OSD
 categories: [ DEV ]
 tags: [ GOOGLE, APIKEY ]
 image: assets/images/01/01.png

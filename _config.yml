@@ -4,7 +4,7 @@ title: "OSD LAB"
 description: "OpenSquareD LAB"
 logo: 'assets/images/logo.jpeg'
 favicon: 'assets/images/logo.jpeg'
-url: https://baem1n.github.io/
+url: https://OpenSquareD.github.io/
 baseurl: /
 include: ["_pages"]
 permalink: /:title/
