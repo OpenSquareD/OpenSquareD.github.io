@@ -2,10 +2,9 @@
 layout: post
 title:  "Google Mas API Key 신청"
 author: OSD
-categories: [ DEV ]
+categories: [ APIKEY ]
 tags: [ GOOGLE, APIKEY ]
 image: assets/images/01/01.png
-rating: 5.0
 ---
 
 검색창에 구글 지도 플랫폼 검색 또는 주소창에 https://cloud.google.com/maps-platform/?hl=ko 를 입력하여 구글 지도 플랫폼 사이트 접속합니다.
